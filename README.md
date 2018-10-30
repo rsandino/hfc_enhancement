@@ -1,2 +1,2 @@
 # hfc_enhancement
-Repo for my changes to HFC documentation before adding to PovertyAction repo
+Changes to HFC wiki documentation before adding to PovertyAction repo
